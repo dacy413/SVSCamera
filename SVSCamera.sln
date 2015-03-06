@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SVSCamera", "SVSCamera\SVSCamera.vcxproj", "{4902D114-A053-4DFE-B2D6-7077C0870D8B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestSVSCamera", "TestSVSCamera\TestSVSCamera.vcxproj", "{74C44EC7-A37E-4347-BBBC-5B1A35C7828B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4902D114-A053-4DFE-B2D6-7077C0870D8B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4902D114-A053-4DFE-B2D6-7077C0870D8B}.Debug|Win32.Build.0 = Debug|Win32
+		{4902D114-A053-4DFE-B2D6-7077C0870D8B}.Release|Win32.ActiveCfg = Release|Win32
+		{4902D114-A053-4DFE-B2D6-7077C0870D8B}.Release|Win32.Build.0 = Release|Win32
+		{74C44EC7-A37E-4347-BBBC-5B1A35C7828B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74C44EC7-A37E-4347-BBBC-5B1A35C7828B}.Debug|Win32.Build.0 = Debug|Win32
+		{74C44EC7-A37E-4347-BBBC-5B1A35C7828B}.Release|Win32.ActiveCfg = Release|Win32
+		{74C44EC7-A37E-4347-BBBC-5B1A35C7828B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
